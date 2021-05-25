@@ -1,0 +1,10 @@
+// build
+.build/
+
+//environment
+.env
+
+// node stuffs
+node_modules/
+package.json
+
